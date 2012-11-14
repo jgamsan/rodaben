@@ -29,7 +29,7 @@ GIT
 
 GIT
   remote: git://github.com/jgamsan/spree_load_tires_for_rodaben.git
-  revision: a0cb39bd5d099233c3d8faf6f24fba4e8762048b
+  revision: 51493f4bd8f7657ebd96eb1142938d6c977df6c7
   specs:
     spree_load_tires_for_rodaben (1.1.2)
       mechanize
@@ -310,7 +310,7 @@ GEM
       rdoc (~> 3.4)
       thor (>= 0.14.6, < 2.0)
     raindrops (0.10.0)
-    rake (0.9.2.2)
+    rake (10.0.0)
     ransack (0.7.0)
       actionpack (~> 3.0)
       activerecord (~> 3.0)
