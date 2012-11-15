@@ -10,7 +10,7 @@ Spree.config do |config|
   config.site_url = "www.neumaticosdecoche.com"
   config.allow_ssl_in_production = false
   config.default_country_id = 188
-  config.default_locale = "en"
+  config.default_locale = "es"
   config.logo = "logo.png"
   config.prices_inc_tax = true
   config.show_zero_stock_products = false

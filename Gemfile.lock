@@ -45,7 +45,7 @@ GIT
 
 GIT
   remote: git://github.com/jgamsan/spree_search_rodaben.git
-  revision: cc3b814a131810fe9c15ce0faf08ff9e3961a883
+  revision: 786c3592ca7a3723fc60cd4fed9ce35abefe58d0
   specs:
     spree_search_rodaben (1.1.1)
       spree_core (>= 1.0.0)
