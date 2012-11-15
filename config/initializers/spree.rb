@@ -10,7 +10,7 @@ Spree.config do |config|
   config.site_url = "www.neumaticosdecoche.com"
   config.allow_ssl_in_production = false
   config.default_country_id = 188
-  config.default_locale = "es"
+  config.default_locale = "en"
   config.logo = "logo.png"
   config.prices_inc_tax = true
   config.show_zero_stock_products = false
@@ -18,6 +18,7 @@ Spree.config do |config|
   config.currency = "EUR"
   config.display_currency = false
   config.products_per_page = 12
+  config.minimun_price_to_show = 30
   config.default_meta_description = "Neumaticos para turismos, motos, furgonetas, camiones y agricolas a precios muy bajos. Le ofrecemos los neumaticos mas baratos. Precios inmejorables, sin gastos de envio para la  peninsula, servicio economico de montaje en casi toda la Peninsula, pedidos faciles de efectuar, sistema flexible de pago, gran variedad, en 48 horas los tendra en su domicilio"
   config.default_meta_keywords = "Neumaticos, ruedas, coche, furgoneta, caravana, camion, agricolas, moto, ofertas, baratos, todas, marcas, todo, tiempo"
 end
